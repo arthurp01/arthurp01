@@ -19,14 +19,7 @@
 │                                                                │
 │ arthurp01@github:~$ _                                          │
 └────────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <a href="https://github.com/arthurp01"><code>github.com/arGitHub   github.com/arthurp01   thurp01</code></a>
-</p>
-
-<p align="center"><code>$ ls ~/stack</code></p>
-
+``` 
 <p align="center"><sub><b>// systems</b></sub></p>
 <p align="center">
   <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></a>
