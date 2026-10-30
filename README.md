@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurp01&label=Visiteurs&color=0e75b6&style=flat" alt="Visiteurs" />
+  <img src="https://komarev.com/ghpvc/?username=arthurp01&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </p>
 
 <h3 align="center">🔗 Connect</h3>
@@ -15,7 +15,6 @@
 <p align="center">
   <!-- Systèmes & shell -->
   <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></a>
 
   <!-- Langages -->
   <a href="https://www.cprogramming.com/" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
