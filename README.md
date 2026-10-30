@@ -23,7 +23,7 @@
 <p align="center"><sub><b>// systems</b></sub></p>
 <p align="center">
   <a href="https://www.linux.org/" title="Linux"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></picture></a>
-  <a href="https://www.microsoft.com/windows/" title="Windows"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="36" height="36" align="middle" /></picture></a>
+  <a href="https://www.microsoft.com/windows/" title="Windows"><sup><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="36" height="36" /></picture></sup></a>
   <a href="https://www.apple.com/macos/" title="macOS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff" /><img src="https://cdn.simpleicons.org/apple/181717" alt="macOS" width="48" height="48" /></picture></a>
 </p>
 
