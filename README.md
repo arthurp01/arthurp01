@@ -23,7 +23,7 @@
 <p align="center"><sub><b>// systems</b></sub></p>
 <p align="center">
   <a href="https://www.linux.org/" title="Linux"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></picture></a>
-  <a href="https://www.microsoft.com/windows/" title="Windows"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="48" height="48" /></picture></a>
+  <a href="https://www.microsoft.com/windows/" title="Windows"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="36" height="36" align="middle" /></picture></a>
   <a href="https://www.apple.com/macos/" title="macOS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff" /><img src="https://cdn.simpleicons.org/apple/181717" alt="macOS" width="48" height="48" /></picture></a>
 </p>
 
@@ -33,7 +33,6 @@
   <a href="https://golang.org" title="Go"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" /></picture></a>
   <a href="https://www.rust-lang.org" title="Rust"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/ffffff" /><img src="https://cdn.simpleicons.org/rust/181717" alt="Rust" width="48" height="48" /></picture></a>
   <a href="https://www.python.org" title="Python"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /></picture></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /></picture></a>
   <a href="https://www.php.net" title="PHP"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" /></picture></a>
 </p>
 
@@ -41,6 +40,7 @@
 <p align="center">
   <a href="https://www.w3.org/html/" title="HTML5"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" /></picture></a>
   <a href="https://www.w3schools.com/css/" title="CSS3"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" /></picture></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /></picture></a>
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><picture><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" /></picture></a>
 </p>
 
